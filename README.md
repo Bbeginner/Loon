@@ -10,17 +10,17 @@
 
 ### Loon全局配置：
 
-* [Loon.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Loon.conf)
+* [Loon.conf](https://raw.githubusercontent.com/Bbeginner/Loon/master/Loon.conf)
 
 
 ### Loon脚本订阅配置：
 * [视频教程](https://youtu.be/F1BEgma4xYA)
 
-* [Script.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Script.conf) 脚本订阅
+* [Script.conf](https://raw.githubusercontent.com/Bbeginner/Loon/master/Script.conf) 脚本订阅
 
-* [Cookie.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Cookie.conf)获取Cookie订阅
+* [Cookie.conf](https://raw.githubusercontent.com/Bbeginner/Loon/master/Cookie.conf)获取Cookie订阅
 
-* [Task.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Task.conf) 定时任务订阅
+* [Task.conf](https://raw.githubusercontent.com/Bbeginner/Loon/master/Task.conf) 定时任务订阅
 
 
 ## 免责声明：
